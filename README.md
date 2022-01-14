@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hritikrajM
 - 👀 I’m interested in full stack devlopment
 - 🌱 I’m currently learning full stack
-- 💞️ I’m looking to collaborate on ...
+ 
 - 📫 How to reach me hritikrajmishra723@gmail.com 7049614417
 
 <!---
